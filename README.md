@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm kamoo 🎯🚀</h1>
-<h3 align="center">Hey it's me kamoo. Meri Shaadi kab hogi, ladke vale maruti 800 maang rhe h</h3>
+<h1 align="center">Hello 👋, I'm Tanika 🎯🚀</h1>
+<h3 align="center">Hey it's me Tanika. Tanika.I have a keen interest in DSA and Web Development and have a huge fascination with the inner workings of technology</h3>
 
 
 <img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
