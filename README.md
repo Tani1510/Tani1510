@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tanika 🎯🚀</h1>
 <h3 align="center">Hey it's me Tanika. Tanika.I have a keen interest in DSA and Web Development and have a huge fascination with the inner workings of technology</h3>
 
-
-<img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<!--<img align = "right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />-->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> *About Me:*
 
