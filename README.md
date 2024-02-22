@@ -13,7 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanikaroy&label=Profile%20views&color=0e75b6&style=flat" alt="x-imayank" /> </p>
 
-<p align="left"> <a href="https://twitter.com/######" target="blank"><img src="https://img.shields.io/twitter/follow/#####?logo=twitter&style=for-the-badge" alt="muskan-karn" /></a> </p>
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-karn&theme=radical&hide_border=true"/>
