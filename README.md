@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on *Coding Skills.*
 - 🌱 I’m currently learning *Competitive programming and DSA.*
 - 👯 I’m looking to collaborate on *Web Projects.*
-- 👨‍💻 All of my projects are available at <a href="https://github.com/muskan-karn?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/tanikaroy?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 💬 Ask me about *DSA, HTML, CSS and Javascript.*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-karn&label=Profile%20views&color=0e75b6&style=flat" alt="x-imayank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanikaroy&label=Profile%20views&color=0e75b6&style=flat" alt="x-imayank" /> </p>
 
 <p align="left"> <a href="https://twitter.com/######" target="blank"><img src="https://img.shields.io/twitter/follow/#####?logo=twitter&style=for-the-badge" alt="muskan-karn" /></a> </p>
 
@@ -39,11 +39,11 @@
 
 
 
-![Muskan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muskan-karn&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
+![Tanika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanikaroy&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)
 
-<a href="https://github.com/muskan-karn">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=muskan-karn&show_icons=true&theme=radical&count_private=true">
+<a href="https://github.com/tanikaroy">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=tanikaroy&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/muskan-karn/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muskan-karn&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/tanikaroy/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tanikaroy&layout=compact&theme=radical&langs_count=6" />
   </a>
